@@ -8,7 +8,7 @@ This public repository contains the landing page for the iOS app MagCalc (see th
 
 ### Theme
 
-For more information about the theme visit the [![New Age](https://github.com/BlackrockDigital/startbootstrap-new-age)] GitHub repository or the corresponding [webpage](https://startbootstrap.com/template-overviews/new-age/)
+For more information about the theme visit the [[New Age](https://github.com/BlackrockDigital/startbootstrap-new-age)] GitHub repository or the corresponding [webpage](https://startbootstrap.com/template-overviews/new-age/)
 
 ### Mockups
 
